@@ -24,7 +24,7 @@ void solve(){
 }
  
 int main() {
-	int tt; 
+    int tt; 
     cin >> tt; 
     for (int i = 1; i <= tt; i++) {
         solve();
